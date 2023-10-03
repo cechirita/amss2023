@@ -23,13 +23,13 @@ Proiectele sunt evaluate și împărțite în trei categorii:
  - mentenanță/evoluție
 
 #### Requirements analysis 
-Identificarea a *ce* trebuie să facă software-ul (nu și cum).
+Identificarea a *ce* trebuie să facă software-ul (nu și *cum*).
 
 Provocări: 
 
  - mai mulți stakeholders cu cerințe diferite – cum rezolvăm conflictele?  
- -  prioritizare – ce cerințe trebuie rezolvate în ce release?
- -  mentenanță – cum abordăm cerințele care se schimbă?
+ - prioritizare – ce cerințe trebuie rezolvate în ce release?
+ - mentenanță – cum abordăm cerințele care se schimbă?
 
 #### Design
 Requirements: ce trebuie să facă software-ul?
@@ -59,7 +59,7 @@ Provocări: scalabilitatea.
 
 #### Testare/debugging
 
-Testare: la niveluri multiple, de la scrierea de unit tests înainte de coding, până la testarea la nivel de client. 
+Testare: la niveluri multiple, de la scrierea de unit tests înainte de programare, până la testarea la nivel de client. 
 
 Debugging: de la "ce linie de cod determină crash-ul?" până la "de ce le este greu utilizatorilor să facă asta?"
 
@@ -97,9 +97,9 @@ Cerințele vin din partea mai multor părți interesate:
 
 ####  Activități de requirement engineering
 
-- colectare  (elicitation, discovery)
+- colectare (elicitation, discovery)
 - sortare (analysis)
- - scriere (specification)
+- scriere (specification)
 - verificare (validation)
 
 Activitățile se suprapun adesea; nu se execută secvențial, sunt iterate. Mai multe abordări posibile pentru fiecare tip de activitate. 
@@ -117,7 +117,6 @@ Surse:
 - stakeholders: vital, dar aceștia pot avea dificultăți în exprimarea cerințelor 
 - business rules: e.g. regulamente interne 
 - environment operațional: e.g. timing și performanță
-performance
 - environment organizational: cum se încadrează softul în practicile existente?
 
 Tehnici:
@@ -137,7 +136,7 @@ Tehnici:
 - prototipuri:
 
    - e.g. mock-ups, storyboards, versiuni preliminare ale sistemului
-   -  precum scenariile, dar mai realiste; ajută în rezolvarea ambiguităților
+   - precum scenariile, dar mai realiste; ajută în rezolvarea ambiguităților
 - observație:
    - potrivită atunci când se înlocuiește un sistem deja existent
    - adesea nepotrivită în inovare    
@@ -166,8 +165,7 @@ Moduri de a înregistra cerințele:
 - modele use case models cu descrieri textuale
 - specificații formale în limbaje bazate pe teorii matematice
 
-Sunt necesare exprimări diferite ale cerințelor în funcție de 
-stakeholderi:
+Sunt necesare exprimări diferite ale cerințelor în funcție de stakeholderi:
 
 - user requirements:
    - high-level

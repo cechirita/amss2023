@@ -16,7 +16,7 @@ Analiza și modelarea sistemelor software:
 #### Cum?
 - Ore de curs + laborator.
 
-- canal Teams [https://tinyurl.com/AMSS2023-Teams](https://tinyurl.com/AMSS2023-Teams)
+- canal Teams [https://tinyurl.com/AMSS2023Team](https://tinyurl.com/AMSS2023Team)
 
 #### Cu cine?
  [Claudia Chiriță](https://cs.unibuc.ro/~cechirita/) + guest lecturers

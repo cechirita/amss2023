@@ -18,6 +18,8 @@ Analiza și modelarea sistemelor software:
 
 - canal Teams [https://tinyurl.com/AMSS2023Team](https://tinyurl.com/AMSS2023Team)
 
+- office hours online, pe Teams: vineri, 18:00-19:00
+
 #### Cu cine?
  [Claudia Chiriță](https://cs.unibuc.ro/~cechirita/) + guest lecturers
 

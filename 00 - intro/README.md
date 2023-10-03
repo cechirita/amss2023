@@ -131,7 +131,7 @@ Tehnici:
     - oferă un context/cadru pentru formularea de întrebări
     - permit formularea de întrebări "ce-ar fi dacă?" și "cum ai face asta?"
     - mai ușor pentru stakeholderi să relaționeze cu situațiile date
-    - pot fi surprinse ca *user stories* și *use cases*. *User stories* sunt folosite în procese de dezvoltare de tip Agile (lightweight), e.g. Extreme Programming (XP). Sunt scurte și scrise de client.
+    - pot fi surprinse ca *user stories* și *use cases*. *User stories* sunt folosite în procese de dezvoltare de tip [Agile](https://en.wikipedia.org/wiki/Agile_software_development) (lightweight), e.g. Extreme Programming (XP). Sunt scurte și scrise de client.
 
 - prototipuri:
 

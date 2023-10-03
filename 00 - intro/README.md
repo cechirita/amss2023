@@ -80,8 +80,8 @@ Provocări:
 
 Tipuri de cerințe:
 
- - [cerințe funcționale]('https://en.wikipedia.org/wiki/Functional_requirement') (servicii): ce ar trebui să facă sistemul
- - [cerințe non-funcționale]('https://en.wikipedia.org/wiki/Non-functional_requirement') (constrângeri sau cerințe calitative): e.g. cât de rapid ar trebui să fie sistemul?; cât de rar sunt permise eșecurile; ce standarde trebuie să respecte?; cât de ușor să fie de folosit?
+ - [cerințe funcționale](https://en.wikipedia.org/wiki/Functional_requirement) (servicii): ce ar trebui să facă sistemul
+ - [cerințe non-funcționale](https://en.wikipedia.org/wiki/Non-functional_requirement) (constrângeri sau cerințe calitative): e.g. cât de rapid ar trebui să fie sistemul?; cât de rar sunt permise eșecurile; ce standarde trebuie să respecte?; cât de ușor să fie de folosit?
 - distincția între cele două categorii nu e mereu clară: e.g. elementele de securitate
 
 #### Stakeholders
@@ -106,7 +106,7 @@ Activitățile se suprapun adesea; nu se execută secvențial, sunt iterate. Mai
 
 Sunt foarte importante; identificarea greșită a cerințelor este cauza principală a eșecului proiectelor software conform rapoartelor Standish CHAOS.
 
-[+ Extra reading]('https://en.wikipedia.org/wiki/Requirements_analysis')
+[+ Extra reading](https://en.wikipedia.org/wiki/Requirements_analysis)
 
 #### Colectarea cerințelor
 
@@ -201,11 +201,11 @@ Boilerplate: text parametric (i.e. text cu placeholdere de completat) care se si
 #### Extra reading
 
 1. ["From boilerplated requirements to Alloy: half-way
-between text and formal model", Daniel Cadete et. al.]('https://www.researchgate.net/profile/Jose-Oliveira-122/publication/307968380_From_boilerplated_requirements_to_Alloy_half-way_between_text_and_formal_model/links/57d45a4c08ae6399a39222d8/From-boilerplated-requirements-to-Alloy-half-way-between-text-and-formal-model.pdf')
+between text and formal model", Daniel Cadete et. al.](https://www.researchgate.net/profile/Jose-Oliveira-122/publication/307968380_From_boilerplated_requirements_to_Alloy_half-way_between_text_and_formal_model/links/57d45a4c08ae6399a39222d8/From-boilerplated-requirements-to-Alloy-half-way-between-text-and-formal-model.pdf)
 
 2. ["Requirement Boilerplates: Transition from
 Manually-Enforced to Automatically-Veriﬁable
-Natural Language Patterns", Chetan Arora et. al.]('https://www.researchgate.net/publication/286746122_Requirement_boilerplates_Transition_from_manually-enforced_to_automatically-verifiable_natural_language_patterns')
+Natural Language Patterns", Chetan Arora et. al.](https://www.researchgate.net/publication/286746122_Requirement_boilerplates_Transition_from_manually-enforced_to_automatically-verifiable_natural_language_patterns)
 
-3. ["Using statement-level templates to improve the quality of requirements", Jeremy Dick, Juan Llorens]('https://www.researchgate.net/publication/313599554_Using_statement-level_templates_to_improve_the_quality_of_requirements')
+3. ["Using statement-level templates to improve the quality of requirements", Jeremy Dick, Juan Llorens](https://www.researchgate.net/publication/313599554_Using_statement-level_templates_to_improve_the_quality_of_requirements)
 

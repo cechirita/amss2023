@@ -2,7 +2,9 @@
 
 ### Software engineering is hard.
 
-Standish Group realizează anual rapoarte CHAOS asupra unor proiecte de dezvoltare software în organizații medii și mari. Studiază ~ 50k proiecte pe an.
+Standish Group realizează anual rapoarte CHAOS asupra unor proiecte de dezvoltare software în organizații medii și mari. 
+
+Studiază ~ 50k proiecte pe an.
 
 Proiectele sunt evaluate și împărțite în trei categorii:
 

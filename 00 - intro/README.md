@@ -14,7 +14,7 @@ Proiectele sunt evaluate și împărțite în trei categorii:
 
 ![Standish CHAOS trends to 2016](images/chaos.png)
 
-### Activități de inginerie software
+## Activități de inginerie software
 
  - requirements analysis (requirements engineering)
  - design/modelare

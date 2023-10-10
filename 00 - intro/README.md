@@ -22,7 +22,7 @@ Proiectele sunt evaluate și împărțite în trei categorii:
  - testare/debugging
  - mentenanță/evoluție
 
-#### Requirements analysis 
+#### [Requirements analysis](https://en.wikipedia.org/wiki/Requirements_analysis) 
 Identificarea a *ce* trebuie să facă software-ul (nu și *cum*).
 
 Provocări: 
@@ -76,6 +76,15 @@ Provocări:
 - menținerea flexibilității
 - cât continuă un sistem să evolueze și când e necesară înlocuirea lui?
 
+### Requirements și modele de dezvoltare software
+
+![Requirements în modelul Iterative Design](images/it-ref.png)
+
+![Requirements în modelul Waterfall](images/waterfall.png)
+
+![Requirements în modelul Agile](images/agile.png)
+
+
 ## Requirements engineering
 
 Tipuri de cerințe:
@@ -106,7 +115,16 @@ Activitățile se suprapun adesea; nu se execută secvențial, sunt iterate. Mai
 
 Sunt foarte importante; identificarea greșită a cerințelor este cauza principală a eșecului proiectelor software conform rapoartelor Standish CHAOS.
 
-[+ Extra reading](https://en.wikipedia.org/wiki/Requirements_analysis)
+Cauze ale eșecului proiectelor software
+
+1. *Incomplete requirements* - 13.1%
+2. *Lack of user involvement* - 12.4%
+3. Lack of resources - 10.6%
+4. *Unrealistic expectations* - 9.9%
+5. Lack of executive support - 9.3%
+6. *Changing requirements & specifications* - 8.8%
+7. Lack of planning - 8.1%
+8. *System no longer needed* - 7.5%
 
 #### Colectarea cerințelor
 
@@ -206,4 +224,13 @@ Manually-Enforced to Automatically-Veriﬁable
 Natural Language Patterns", Chetan Arora et. al.](https://www.researchgate.net/publication/286746122_Requirement_boilerplates_Transition_from_manually-enforced_to_automatically-verifiable_natural_language_patterns)
 
 3. ["Using statement-level templates to improve the quality of requirements", Jeremy Dick, Juan Llorens](https://www.researchgate.net/publication/313599554_Using_statement-level_templates_to_improve_the_quality_of_requirements)
+
+### SRS Documents
+
+[IEEE Recommended Practice for Software Requirements Specifications](https://ieeexplore.ieee.org/document/720574) +
+[pdf](https://cse.msu.edu/~cse870/IEEEXplore-SRS-template.pdf)
+
+## Bibliografie
+
+Sommerville, *Software Engineering*, Tenth Edition, 2016 – Chapter 4, Requirements Engineering
 

@@ -30,6 +30,9 @@ Proiect în echipe (mai multe detalii în curând).
 Checkpoint în decembrie, la ultimul laborator înainte de vacanță (1 punct din nota finală). 
 
 #### Bibliografie
-["UML 2.0 in a Nutshell"](https://www.oreilly.com/library/view/uml-20-in/0596007957/), Dan Pilone with Neil Pitman
+- ["UML 2.0 in a Nutshell"](https://www.oreilly.com/library/view/uml-20-in/0596007957/), Dan Pilone with Neil Pitman
+- [„Software Systems Architecture”](https://www.viewpoints-and-perspectives.info/), Nick Rozanski, Eoin Woods
+- ["Patterns of Enterprise Application Architecture"](https://www.martinfowler.com/books/eaa.html) Martin Fowler
+- ["Design Patterns – Elements of Reusable Object-Oriented Software"](https://www.oreilly.com/library/view/design-patterns-elements/0201633612/) Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
 
 \+ extra: 	["Using UML: Software Engineering with Objects and Components"](https://homepages.inf.ed.ac.uk/perdita/Book/), Perdita Stevens with Rob Pooley  

@@ -238,6 +238,46 @@ classDiagram
 
 Modelați o mașină folosind diagrame de clasă.
 
+```mermaid
+%%{init: {'theme':'neutral'}}%%
+classDiagram
+    class Masina {
+        -Motor motor
+        +Roata roata[4..5] 
+        +Caroserie caroserie
+        -Int portbagaj[0..2]
+        +String culoare
+        +String marcă
+        +drive(mode)
+        +break()
+        -aer-conditionat(temp)
+        -car-play(volum)
+        -navigare()
+        +alimentare()
+        +lightning()
+    }
+  class Motor{
+    -Int CP[]
+    -Int cilindri
+    +String tip
+    +aprindere()
+}
+class Caroserie{
+    +String tip
+    -String material
+    -Int geamuri
+    -Int locuri
+    -Int oglinzi
+    +blocare-usi() 
+    }
+class Roata{
+    +String tip
+    +Boolean rezerva
+    +Float marime
+    }
+```
+
+
 ## Cu ce desenăm diagrame?
 
 1. [Mermaid](http://mermaid.js.org/), 4 Github, a la Markdown.

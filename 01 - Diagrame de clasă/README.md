@@ -2,6 +2,8 @@
 
 Diagramele de clasă sunt printre cele mai versatile și mai importante diagrame UML. Sunt diagrame structurale; folosite pentru a surprinde relațiile statice dintr-un sistem software. 
 
+## Clase
+
 În UML, o *clasă* reprezintă o colecție de obiecte (lucruri, tangibile sau nu, concrete sau abstracte) care au o stare și/sau un comportament comun. O clasă dintr-o diagramă UML de clasă poate reprezenta o clasă dintr-un limbaj de programare orientată pe obiecte, o entitate într-o diagramă ER a unei baze de date, o componentă sau un modul al unui sistem, o instanță propriu-zisă a unui obiect, etc.
 
 ## Reprezentare / sintaxă

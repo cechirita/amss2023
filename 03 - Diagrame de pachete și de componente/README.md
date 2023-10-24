@@ -86,6 +86,9 @@ Funcționalitățile required și oferite sunt reprezentate folosind o linie sol
 
 Modelați un lift folosind diagrame de componente.
 
+![Schemă lift](images/lift.JPG)
+
+
 ## Cu ce desenăm diagrame?
 
 1. [app.diagrams](https://app.diagrams.net/)

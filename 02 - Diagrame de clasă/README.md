@@ -238,6 +238,7 @@ classDiagram
 
 Modelați o mașină folosind diagrame de clasă.
 
+Soluția pe care am scris-o împreună în timpul cursului:
 ```mermaid
 %%{init: {'theme':'neutral'}}%%
 classDiagram
@@ -275,6 +276,48 @@ class Roata{
     +Boolean rezerva
     +Float marime
     }
+```
+
+O soluție obținută la laborator (înlocuind atributele ce arătau asocierile dintre două clase cu relații):
+
+```mermaid
+%%{init: {'theme':'neutral'}}%%
+classDiagram
+    class Masina {
+        -Int portbagaj[0..2]
+        +String culoare
+        +String marcă
+        +drive(mode)
+        +break()
+        -aer-conditionat(temp)
+        -car-play(volum)
+        -navigare()
+        +alimentare()
+        +lightning()
+    } 
+  class Motor{
+    -Int CP[50..2000]
+    -Int cilindri
+    +String tip
+    +aprindere()
+}
+class Caroserie{
+    +String tip
+    -String material
+    -Int geamuri
+    -Int locuri
+    -Int oglinzi
+    +blocare-usi() 
+    }
+class Roata{
+    +String tip
+    +Boolean rezerva
+    +Float marime
+    }
+
+Masina <-- Motor
+Masina <-- "4..5" Roata : are
+Masina *-- Caroserie : are
 ```
 
 

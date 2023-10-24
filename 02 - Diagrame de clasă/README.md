@@ -286,3 +286,8 @@ class Roata{
 3. [app.diagrams](https://app.diagrams.net/)
 4. [Visual Paradigm](https://online.visual-paradigm.com/diagrams/solutions/free-class-diagram-tool/)
 
+## Bibliografie
+
+ - *UML 2.0 in a Nutshell*, Dan Pilone, Neil Pitman - Chapter 2, Class Diagrams
+ - *Using UML*, Perdita Stevens, Rob Pooley - Chapter 5, Essentials of class models & Chapter 6, More on class models
+

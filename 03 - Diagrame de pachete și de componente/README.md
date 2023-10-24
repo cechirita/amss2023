@@ -4,6 +4,8 @@
 
 Pachetele oferă un mod de a grupa elemente și de a defini domenii de vizibilitate (*scope*). Folosirea diagramelor de pachete este utilă pentru vizualizarea dependențelor dintre diferite părți ale unui sistem. Sunt folosite adesea în etapele de identificare a problemelor dintr-un sistem sau pentru stabilirea ordinii de compilare.
 
+### Namespaces
+
 Aproape toate elementele UML pot fi grupate în pachete, inclusiv pachetele însele. Fiecare pachet are un nume care determină domeniul de vizibilitate (scope) pentru fiecare element pe care îl conține. 
 
 *Exemplu*: presupunând că avem o clasă denumită `Timer` într-un pachet denumit `Utilities`, numele complet al clasei, conținând scope-ul său este `Utilities::Timer`. Elementele unui pachet pot face referire la alte elemente din același pachet fără calificatori (numele pachetului).
@@ -35,7 +37,7 @@ Un pachet poate specifica informații legate de vizibilitatea elementelor conți
 
 UML permite reprezentarea importăriii de pachete folosind o săgeată punctată de la pachetul care importă la cel importat, însoțită de o etichetă cu cuvântul-cheie `<<import>>`.
 
-Elementele importate au de regulă vizibilitate publică în pachetul în care sunt incluse. UML permite specificarea unei vizibilități private (nu pot fi folosite în afara pachetului care le importă, inclusiv alte pachete ce importă acestui pachet care le importă direct) folosind cuvântul-cheie `<<access>>`.
+Elementele importate au de regulă vizibilitate publică în pachetul în care sunt incluse. UML permite specificarea unei vizibilități private (nu pot fi folosite în afara pachetului care le importă, inclusiv alte pachete ce importă acest pachet care le importă direct) folosind cuvântul-cheie `<<access>>`.
 
 UML mai permite și reprezentarea unificării (*merging*) pachetelor ce, spre deosebire de import, presupune crearea de relații între clase cu același nume. Când un pachet este unificat cu alt pachet, oric clasă cu același tip și nume extinde în mod automat (are o relație de generalizare cu) clasa originală. Se reprezintă folosind săgeți punctate cu eticheta `<<merge>>`.
 

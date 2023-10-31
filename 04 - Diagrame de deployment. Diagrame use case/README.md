@@ -94,13 +94,13 @@ Deși nu fac parte din specificația oficială UML, putem folosi și săgeți (d
 
 Limitele unui sistem pot fi identificate prin izolarea funcționalităților unui subiect anume. Orice nu este îndeplinit de subiect este considerat în afara limitelor sistemului și devine actor. Tehnica este utilă în determinarea/asignarea responsabilităților în etapa de design a unui sistem. Reprezentăm limitele folosind un dreptunghi adnotat cu numele sistemului în partea de sus.
 
-<img alt="boundaries" src="images/boundaries.png" width="500px">
+<img alt="boundaries" src="images/boundaries.png" width="600px">
 
 ### Generalizare
 
 Putem folosi relații de generalizare între actori și cazuri de utilizare. De exemplu, pentru a reprezenta faptul că un actor poate executa toate sarcinile unui alt actor (abstract): desenăm o săgeată (cu capăt gol) de la actorul mai specific la actorul mai general pentru a indica ca poate iniția și funcționalitățile asociate acestuia, pe lângă cele asociate lui. 
 
-<img alt="use case" src="images/admin.png" width="600px">
+<img alt="use case" src="images/admin.png" width="500px">
 
 Cazurile de utilizare pot fi generalizate de asemenea. Generalizarea se folosește pentru a descrie o cerință funcțională high-level a unui sistem fără a intra în detalii. 
 

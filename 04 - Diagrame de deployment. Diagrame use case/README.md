@@ -82,7 +82,7 @@ Putem reprezenta un actor și folosind notația cu clasificatori: un dreptunghi 
 
 Putem folosi însă și desene custom pentru a distinge între tipurile de actori. De exemplu, putem reprezenta un sistem de baze de date extern folosind o iconiță de bază de date și un administrator de sistem folosind un stick figure.
  
-<img alt="actor" src="images/actor3.png" width="400px">
+<img alt="actor" src="images/actor3.png" width="600px">
 
 ### Asocieri actor/use case
 
@@ -100,7 +100,7 @@ Limitele unui sistem pot fi identificate prin izolarea funcționalităților unu
 
 Putem folosi relații de generalizare între actori și cazuri de utilizare. De exemplu, pentru a reprezenta faptul că un actor poate executa toate sarcinile unui alt actor (abstract): desenăm o săgeată (cu capăt gol) de la actorul mai specific la actorul mai general pentru a indica ca poate iniția și funcționalitățile asociate acestuia, pe lângă cele asociate lui. 
 
-<img alt="use case" src="images/admin.png" width="500px">
+<img alt="use case" src="images/admin.png" width="600px">
 
 Cazurile de utilizare pot fi generalizate de asemenea. Generalizarea se folosește pentru a descrie o cerință funcțională high-level a unui sistem fără a intra în detalii. 
 

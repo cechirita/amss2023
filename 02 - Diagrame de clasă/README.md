@@ -320,6 +320,11 @@ Masina <-- "4..5" Roata : are
 Masina *-- Caroserie : are
 ```
 
+### Exercițiu laborator
+
+Modelarea unei parcări folosind diagrame de clasă.
+
+[Soluție propusă de LaurentiuALI](https://github.com/LaurentiuALI/AMSS/tree/lab2).
 
 ## Cu ce desenăm diagrame?
 

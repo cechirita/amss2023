@@ -64,8 +64,8 @@ Definiția unui caz de utilizare în UML presupune:
 
 Reprezentăm un caz de utilizare (o funcționalitate) folosind un oval cu numele funcționalității. 
 
-<img alt="use case" src="images/uc1.png" width="100px">
-<img alt="use case" src="images/uc2.png" width="150px">
+<img alt="use case" src="images/uc1.png" width="150px">
+<img alt="use case" src="images/uc2.png" width="200px">
 <img alt="use case" src="images/uc3.png" width="200px">
 
 ### Actor
@@ -74,11 +74,11 @@ Un use case trebuie inițiat de *cineva* ori *ceva* din afara domeniului cazului
 
 Actorii pot fi reprezentați în mai multe feluri în UML. Cea mai comună este cea a unui *stick figure* însoțit de numele actorului.
 
-<img alt="actor" src="images/actor.png" width="100px">
+<img alt="actor" src="images/actor.png" width="150px">
 
 Putem reprezenta un actor și folosind notația cu clasificatori: un dreptunghi cu numele actorului și cuvântul-cheie `<<actor>>`.
 
-<img alt="actor" src="images/actor2.png" width="200px">
+<img alt="actor" src="images/actor2.png" width="150px">
 
 Putem folosi însă și desene custom pentru a distinge între tipurile de actori. De exemplu, putem reprezenta un sistem de baze de date extern folosind o iconiță de bază de date și un administrator de sistem folosind un stick figure.
  
@@ -100,11 +100,11 @@ Limitele unui sistem pot fi identificate prin izolarea funcționalităților unu
 
 Putem folosi relații de generalizare între actori și cazuri de utilizare. De exemplu, pentru a reprezenta faptul că un actor poate executa toate sarcinile unui alt actor (abstract): desenăm o săgeată (cu capăt gol) de la actorul mai specific la actorul mai general pentru a indica ca poate iniția și funcționalitățile asociate acestuia, pe lângă cele asociate lui. 
 
-<img alt="use case" src="images/admin.png" width="400px">
+<img alt="use case" src="images/admin.png" width="500px">
 
 Cazurile de utilizare pot fi generalizate de asemenea. Generalizarea se folosește pentru a descrie o cerință funcțională high-level a unui sistem fără a intra în detalii. 
 
-<img alt="use case" src="images/uc4.png" width="300px">
+<img alt="use case" src="images/uc4.png" width="400px">
 
 ### Incluziunea cazurilor de utilizare
 
@@ -117,7 +117,7 @@ Incluziunea este reprezentată cu săgeți cu linie punctată (dependență) și
 În anumite condiții, un caz de utilizare poate extinde un altul pentru a oferi funcționalități extra. Diferența între incluziune și extindere constă în faptul că un caz de utilizare extins este un caz de utilizare valid în sine.
 
 <img alt="extindere use case" src="images/ext1.png" width="400px">
-<img alt="extindere use case" src="images/ext2.png" width="400px">
+<img alt="extindere use case" src="images/ext2.png" width="450px">
 
 ### Time for lunch?
 

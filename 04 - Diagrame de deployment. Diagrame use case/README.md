@@ -124,6 +124,12 @@ Incluziunea este reprezentată cu săgeți cu linie punctată (dependență) și
 Ce constituie un bun caz de utilizare și ce nu? 
 Regulă nescrisă pentru evaluarea complexității: ne întrebăm dacă utilizatorul "poate merge să ia prânzul" după completarea cazului de utilizare (un scop cu dimensiune rezonabilă a fost atins de inițiator). 
 
+### Specificații use case 
+
+Diferența între o diagramă use case diagram și o specificație use case detaliată. 
+
+![use-case-spec](https://imgv2-1-f.scribdassets.com/img/document/350193974/original/0b1b7f7b48/1630761596?v=1)
+
 ### Exercițiu 
 
 Modelarea interacțiunilor utilizatorilor cu pagina YouTube folosind diagrame use case.

@@ -82,7 +82,7 @@ Putem reprezenta un actor și folosind notația cu clasificatori: un dreptunghi 
 
 Putem folosi însă și desene custom pentru a distinge între tipurile de actori. De exemplu, putem reprezenta un sistem de baze de date extern folosind o iconiță de bază de date și un administrator de sistem folosind un stick figure.
  
-![alternative-icons-for-actors](https://learning.oreilly.com/api/v2/epubs/urn:orm:book:0596007957/files/httpatomoreillycomsourceoreillyimages187496.png)
+<img alt="actor" src="images/actor3.png" width="400px">
 
 ### Asocieri actor/use case
 
@@ -94,7 +94,7 @@ Deși nu fac parte din specificația oficială UML, putem folosi și săgeți (d
 
 Limitele unui sistem pot fi identificate prin izolarea funcționalităților unui subiect anume. Orice nu este îndeplinit de subiect este considerat în afara limitelor sistemului și devine actor. Tehnica este utilă în determinarea/asignarea responsabilităților în etapa de design a unui sistem. Reprezentăm limitele folosind un dreptunghi adnotat cu numele sistemului în partea de sus.
 
-![boundaries](https://learning.oreilly.com/api/v2/epubs/urn:orm:book:0596007957/files/httpatomoreillycomsourceoreillyimages187502.png)
+<img alt="boundaries" src="images/boundaries.png" width="500px">
 
 ### Generalizare
 

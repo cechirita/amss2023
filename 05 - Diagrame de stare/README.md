@@ -223,7 +223,7 @@ stateDiagram-v2
     Preparing_coffee --> done: time
     done --> [*]
 
-    note left of display_no_stick: "display the following text on the LCD: No sticks left!"
+    note left of display_no_stick: "display the following text on the LCD: no stick"
 
 ```
 

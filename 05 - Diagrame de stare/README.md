@@ -10,7 +10,7 @@ Diagramele de stare surprind comportamentul unui sistem software folosind o nota
 
 Un *state machine* se reprezintă folosind un dreptunghi cu o etichetă ce îi conține numele în partea din stânga-sus. Este de regulă asociat unui clasificator dintr-un model UML mai mare (e.g. o clasă, un subsistem). Asocierea se poate face folosind o notă. 
 
-<img alt="artefact" src="images/sm1.png" width="600px">
+<img alt="artefact" src="images/sm1.png" width="700px">
 
 Modelarea comportamentului unei mașini cu stări se face folosind stări, pseudostări, activități și tranziții. 
 
@@ -36,7 +36,7 @@ O mașină cu stări ce modelează un tonomat de cafea poate avea ca stări "Gri
 
 O stare se reprezintă folosind un dreptunghi cu colțuri rotunjite ce îi conține numele. 
 
-<img alt="stare simpla" src="images/state1.png" width="100px">
+<img alt="stare simpla" src="images/state1.png" width="150px">
 
 O stare poate fi împărțită în compartimente:
 
@@ -138,7 +138,7 @@ Etichetele pot avea valorile rezervate:
 
 Pseudostările sunt tipuri speciale de stări care reprezintă un comportament specific în timpul tranzițiilor dintre stări obișnuite. Folosite împreună cu tranziții obișnuite, pseudostările pot reprezenta schimbări de stare complexe. 
 
-<img alt="pseudostari" src="images/ps.png" width="600px">
+<img alt="pseudostari" src="images/ps.png" width="500px">
 
 
 Tipuri de pseudostări:

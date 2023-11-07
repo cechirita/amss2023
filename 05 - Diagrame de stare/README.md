@@ -77,7 +77,7 @@ Stările compozite au una sau mai multe *regiuni* cu substări. Sunt considerate
 
 Regiunile dintr-o stare compozită sunt reprezentate cu linii punctate în compartimentul de descompunere. Fiecare regiune poate avea un nume. 
 
-<img alt="regiuni stare" src="images/state4.png" width="600px">
+<img alt="regiuni stare" src="images/state4.png" width="700px">
 
 Fiecare regiune are o pseudostare inițială și o stare finală. O tranziție într-o stare compozită este o tranziție la pseudostarea inițială din fiecare regiune. Regiunile dintr-o stare compozită se execută în paralel, asincron. O tranziție către starea finală a unei regiuni indică completarea activității regiunii. La completarea tuturor regiunilor unei stări compozite, este declanșat un eveniment de completare și este inițiată o tranziție de completare.
 

@@ -205,7 +205,7 @@ stateDiagram-v2
     }
 
     [*] --> Idle
-    Idle --> check_fork: press a coffee buton
+    Idle --> check_fork: press a coffee button
 
     check_fork --> check_water
     check_water --> check_join
@@ -223,7 +223,7 @@ stateDiagram-v2
     Preparing_coffee --> done: time
     done --> [*]
 
-    note left of display_no_stick: "display the following text on the LCD no stick"
+    note left of display_no_stick: "display the following text on the LCD: No sticks left!"
 
 ```
 

@@ -172,7 +172,6 @@ Cerințe:
 - cafeaua este deja macinată
 - oferă mai multe tipuri de cafea și bețe de lemn pentru amestecat
 
-
 ```mermaid
 stateDiagram-v2
 
@@ -205,7 +204,7 @@ stateDiagram-v2
     }
 
     [*] --> Idle
-    Idle --> check_fork: press a coffee button
+    Idle --> check_fork: press a coffee buton
 
     check_fork --> check_water
     check_water --> check_join
@@ -223,7 +222,7 @@ stateDiagram-v2
     Preparing_coffee --> done: time
     done --> [*]
 
-    note left of display_no_stick: "display the following text on the LCD: no stick"
+    note left of display_no_stick: "display the following text on the LCD no stick"
 
 ```
 

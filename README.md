@@ -25,7 +25,7 @@ Analiza și modelarea sistemelor software:
 
 #### Note?
 
-Proiect în echipe (mai multe detalii în curând). 
+Proiect în echipe (vezi detalii în Teams). 
 
 Checkpoint în decembrie, la ultimul laborator înainte de vacanță (1 punct din nota finală). 
 

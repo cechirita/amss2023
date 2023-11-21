@@ -139,7 +139,7 @@ sequenceDiagram
         database -->> app: ok
         deactivate database 
         app -->> other_participants: vote registered
-        activate other_participants
+        deactivate other_participants
     end
     alt Alice is happy with votes
         Alice ->> app: confirmEvent()

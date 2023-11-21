@@ -125,9 +125,9 @@ sequenceDiagram
     activate database
     database -->> app: created
     deactivate database
+    activate other_participants
     par all other participants 
-        app ->> +other_participants: new event notification
-        activate other_participants
+        app ->> +other_participants: new event notification    
     end
     deactivate other_participants
     app -->> Alice: event created

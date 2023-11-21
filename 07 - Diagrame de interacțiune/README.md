@@ -127,15 +127,19 @@ sequenceDiagram
     deactivate database
     par all other participants 
         app ->> +other_participants: new event notification
-    end 
+        activate other_participants
+    end
+    deactivate other_participants
     app -->> Alice: event created
     par each participant
         other_participants ->> app: vote
+        activate other_participants
         app ->> database: store vote
         activate database
         database -->> app: ok
         deactivate database 
         app -->> other_participants: vote registered
+        activate other_participants
     end
     alt Alice is happy with votes
         Alice ->> app: confirmEvent()
@@ -144,8 +148,10 @@ sequenceDiagram
         database -->> app: updated
         deactivate database
         par all confirming participants
+            activate other_participants
             app ->> other_participants: It's a date!
         end
+        deactivate other_participants
         app -->> Alice: ok
     else insufficient people responded positively
         Alice ->> app: cancelEvent()

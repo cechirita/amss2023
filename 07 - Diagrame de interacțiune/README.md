@@ -122,7 +122,9 @@ sequenceDiagram
     Alice ->> +app: createEvent(date, location)
     activate Alice 
     app ->> +database: create entity
+    activate database
     database -->> app: created
+    deactivate database
     par all other participants 
         app ->> +other_participants: new event notification
     end 
@@ -130,21 +132,27 @@ sequenceDiagram
     par each participant
         other_participants ->> app: vote
         app ->> database: store vote
+        activate database
         database -->> app: ok
+        deactivate database 
         app -->> other_participants: vote registered
     end
     alt Alice is happy with votes
         Alice ->> app: confirmEvent()
         app ->> database: update event status
+        activate database
         database -->> app: updated
+        deactivate database
         par all confirming participants
             app ->> other_participants: It's a date!
         end
         app -->> Alice: ok
     else insufficient people responded positively
         Alice ->> app: cancelEvent()
-        app ->> database: update event status 
+        app ->> database: update event status
+        activate database 
         database -->> app: updated
+        deactivate database
         app -->> Alice: ok
     end
     

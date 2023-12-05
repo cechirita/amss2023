@@ -66,7 +66,7 @@ Un criteriu important în validarea unui sistem. Un sistem de calitate trebuie n
 
 ## Analiză ciclică
 
-<img alt="analiza ciclica" src="images/ic.png" width="400px">
+<img alt="analiza ciclica" src="images/ic.png" width="500px">
 <img alt="scurtaturi analiza" src="images/ics.png" width="500px">
 
 ### Criterii V&V

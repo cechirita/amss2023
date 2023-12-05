@@ -12,7 +12,7 @@ Quality review: *"insure that the project is free from failures and meets its us
 - suficiență: produsul este complet
 - calitate: produsul satisface cerințele de calitate impuse
 
-<img alt="verificare si validare" src="images/vv.png" width="500px">
+<img alt="verificare si validare" src="images/vv.png" width="300px">
 
 ## Verificare 
 

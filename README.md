@@ -1,6 +1,11 @@
 # amss2023
 Pagina cursului Analiza și Modelarea Sistemelor Software 2023/2024 FMI
 
+## ANUNȚ
+Cursul de azi, 19.12, despre "Arhitecturi bazate pe modele", ținut de domnul Adrian Buturuga, se reprogramează pentru 12.01.2024, ora 16:00.
+Vă aștept însă la laborator, ca în orar, de la ora 18:00.
+
+
 ## Admin info
 #### Ce studiem?
 Analiza și modelarea sistemelor software: 

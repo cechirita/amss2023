@@ -2,7 +2,7 @@
 Pagina cursului Analiza și Modelarea Sistemelor Software 2023/2024 FMI
 
 ## ANUNȚ
-Cursul despre "Arhitecturi bazate pe modele", ținut de domnul Adrian Buturuga, a fost reprogramat vineri, 12.01.2024, la ora 16:00.
+Cursul despre "Arhitecturi bazate pe modele", ținut de domnul Adrian Buturuga, a fost reprogramat vineri, 12.01.2024, la ora 16:00, sala 202.
 
 
 ## Admin info

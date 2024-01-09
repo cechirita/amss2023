@@ -6,7 +6,7 @@
 
 [Specificații algebrice](https://en.wikipedia.org/wiki/Algebraic_specification)
 
-[OBJ](https://en.wikipedia.org/wiki/OBJ_(programming_language)
+[OBJ](https://en.wikipedia.org/wiki/OBJ_(programming_language))
 [Maude](http://maude.cs.illinois.edu/w/index.php/The_Maude_System)
 [CASL](https://www.informatik.uni-bremen.de/agbkb/forschung/formal_methods/CoFI/CASL/casl.pdf)
 [K framework](https://kframework.org/)
